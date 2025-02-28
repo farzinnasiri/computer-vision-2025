@@ -1,0 +1,27 @@
+# Core scientific packages
+setuptools>=68.0.0
+wheel>=0.40.0
+numpy>=1.24.0,<2.0.0
+scipy>=1.10.0
+
+# Machine learning
+scikit-learn>=1.2.2
+scikit-image>=0.20.0
+
+# Deep learning 
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer vision
+opencv-python>=4.7.0.72
+Pillow>=9.4.0
+
+# Model frameworks
+ultralytics>=8.0.120
+transformers>=4.30.0
+
+# Utilities
+matplotlib>=3.7.1
+tqdm>=4.65.0
+jupyterlab>=3.6.3
+ipykernel>=6.22.0
