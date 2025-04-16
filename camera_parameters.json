@@ -1,0 +1,21 @@
+{
+    "focal_length_x": 1029,
+    "focal_length_y": 1029,
+    "principal_point_x": 480.0,
+    "principal_point_y": 360.0,
+    "distortion_coeffs": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+    ],
+    "vanishing_point": [
+        1015.65,
+        154.78
+    ],
+    "camera_height_pixels": 457.22,
+    "estimated_camera_height_meters": 5.0,
+    "image_width": 960,
+    "image_height": 720
+}

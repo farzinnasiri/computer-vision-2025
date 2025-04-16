@@ -37,6 +37,10 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Specific notebooks to exclude
+Untitled.ipynb
+Track_vehicles.ipynb
+
 # Environment
 venv/
 env/
