@@ -1,0 +1,3026 @@
+{
+    "6": {
+        "136": {
+            "depth": 25.539372238011122,
+            "angle": 3.364177305654593,
+            "pixel_distance": 142.0,
+            "left_kp": [
+                1702,
+                934
+            ],
+            "right_kp": [
+                1844,
+                945
+            ],
+            "ray_angle": 3.364177305654593,
+            "movement_type": "translation"
+        },
+        "137": {
+            "depth": 26.16931178130726,
+            "angle": 3.283240732862425,
+            "pixel_distance": 137.0,
+            "left_kp": [
+                1675,
+                909
+            ],
+            "right_kp": [
+                1812,
+                919
+            ],
+            "ray_angle": 3.283240732862425,
+            "movement_type": "translation"
+        },
+        "138": {
+            "depth": 26.68297966551913,
+            "angle": 3.220069416559665,
+            "pixel_distance": 133.0,
+            "left_kp": [
+                1650,
+                886
+            ],
+            "right_kp": [
+                1783,
+                895
+            ],
+            "ray_angle": 3.220069416559665,
+            "movement_type": "translation"
+        },
+        "139": {
+            "depth": 27.462152529110003,
+            "angle": 3.128753713471226,
+            "pixel_distance": 128.0,
+            "left_kp": [
+                1627,
+                863
+            ],
+            "right_kp": [
+                1755,
+                872
+            ],
+            "ray_angle": 3.128753713471226,
+            "movement_type": "translation"
+        },
+        "140": {
+            "depth": 28.102071906185106,
+            "angle": 3.0575422760265845,
+            "pixel_distance": 124.0,
+            "left_kp": [
+                1605,
+                842
+            ],
+            "right_kp": [
+                1729,
+                851
+            ],
+            "ray_angle": 3.0575422760265845,
+            "movement_type": "translation"
+        },
+        "141": {
+            "depth": 29.55311097653936,
+            "angle": 2.907484966243773,
+            "pixel_distance": 117.0,
+            "left_kp": [
+                1585,
+                823
+            ],
+            "right_kp": [
+                1702,
+                829
+            ],
+            "ray_angle": 2.907484966243773,
+            "movement_type": "translation"
+        },
+        "142": {
+            "depth": 30.107596497958586,
+            "angle": 2.8539607506197737,
+            "pixel_distance": 114.0,
+            "left_kp": [
+                1566,
+                804
+            ],
+            "right_kp": [
+                1680,
+                812
+            ],
+            "ray_angle": 2.8539607506197737,
+            "movement_type": "translation"
+        },
+        "143": {
+            "depth": 31.0098741822285,
+            "angle": 2.770953436154811,
+            "pixel_distance": 110.0,
+            "left_kp": [
+                1548,
+                787
+            ],
+            "right_kp": [
+                1658,
+                793
+            ],
+            "ray_angle": 2.770953436154811,
+            "movement_type": "translation"
+        },
+        "144": {
+            "depth": 31.38487769893298,
+            "angle": 2.7378572584126513,
+            "pixel_distance": 108.0,
+            "left_kp": [
+                1530,
+                771
+            ],
+            "right_kp": [
+                1638,
+                778
+            ],
+            "ray_angle": 2.7378572584126513,
+            "movement_type": "translation"
+        },
+        "145": {
+            "depth": 31.821814531662294,
+            "angle": 2.700278483536279,
+            "pixel_distance": 106.0,
+            "left_kp": [
+                1514,
+                756
+            ],
+            "right_kp": [
+                1620,
+                761
+            ],
+            "ray_angle": 2.700278483536279,
+            "movement_type": "translation"
+        },
+        "146": {
+            "depth": 32.25583057211655,
+            "angle": 2.663958256465777,
+            "pixel_distance": 104.0,
+            "left_kp": [
+                1499,
+                741
+            ],
+            "right_kp": [
+                1603,
+                748
+            ],
+            "ray_angle": 2.663958256465777,
+            "movement_type": "translation"
+        },
+        "147": {
+            "depth": 32.73019860816143,
+            "angle": 2.6253623636598786,
+            "pixel_distance": 102.0,
+            "left_kp": [
+                1484,
+                727
+            ],
+            "right_kp": [
+                1586,
+                734
+            ],
+            "ray_angle": 2.6253623636598786,
+            "movement_type": "translation"
+        },
+        "148": {
+            "depth": 33.912321760577825,
+            "angle": 2.5338772729081316,
+            "pixel_distance": 98.0,
+            "left_kp": [
+                1471,
+                713
+            ],
+            "right_kp": [
+                1569,
+                720
+            ],
+            "ray_angle": 2.5338772729081316,
+            "movement_type": "translation"
+        },
+        "149": {
+            "depth": 34.49738796022963,
+            "angle": 2.4909170647048677,
+            "pixel_distance": 96.0,
+            "left_kp": [
+                1458,
+                701
+            ],
+            "right_kp": [
+                1554,
+                707
+            ],
+            "ray_angle": 2.4909170647048677,
+            "movement_type": "translation"
+        },
+        "150": {
+            "depth": 35.09480765984807,
+            "angle": 2.448527144559882,
+            "pixel_distance": 94.0,
+            "left_kp": [
+                1445,
+                689
+            ],
+            "right_kp": [
+                1539,
+                695
+            ],
+            "ray_angle": 2.448527144559882,
+            "movement_type": "translation"
+        },
+        "151": {
+            "depth": 35.73035609981624,
+            "angle": 2.404987232927276,
+            "pixel_distance": 92.0,
+            "left_kp": [
+                1433,
+                677
+            ],
+            "right_kp": [
+                1525,
+                683
+            ],
+            "ray_angle": 2.404987232927276,
+            "movement_type": "translation"
+        },
+        "152": {
+            "depth": 36.81060633458513,
+            "angle": 2.3344298938631387,
+            "pixel_distance": 89.0,
+            "left_kp": [
+                1422,
+                666
+            ],
+            "right_kp": [
+                1511,
+                672
+            ],
+            "ray_angle": 2.3344298938631387,
+            "movement_type": "translation"
+        },
+        "154": {
+            "depth": 38.2752766541822,
+            "angle": 2.2451221695666854,
+            "pixel_distance": 85.0,
+            "left_kp": [
+                1400,
+                645
+            ],
+            "right_kp": [
+                1485,
+                652
+            ],
+            "ray_angle": 2.2451221695666854,
+            "movement_type": "translation"
+        }
+    },
+    "13": {
+        "172": {
+            "depth": 45.78758731919918,
+            "angle": 1.8768401917912199,
+            "pixel_distance": 71.0,
+            "left_kp": [
+                1395,
+                654
+            ],
+            "right_kp": [
+                1466,
+                658
+            ],
+            "ray_angle": 1.8768401917912199,
+            "movement_type": "translation"
+        },
+        "173": {
+            "depth": 45.634192547943925,
+            "angle": 1.8831478683812422,
+            "pixel_distance": 71.0,
+            "left_kp": [
+                1384,
+                644
+            ],
+            "right_kp": [
+                1455,
+                649
+            ],
+            "ray_angle": 1.8831478683812422,
+            "movement_type": "translation"
+        },
+        "174": {
+            "depth": 46.880759113797424,
+            "angle": 1.8330833365715624,
+            "pixel_distance": 69.0,
+            "left_kp": [
+                1375,
+                635
+            ],
+            "right_kp": [
+                1444,
+                639
+            ],
+            "ray_angle": 1.8330833365715624,
+            "movement_type": "translation"
+        },
+        "175": {
+            "depth": 48.16773055627435,
+            "angle": 1.7841140489466032,
+            "pixel_distance": 67.0,
+            "left_kp": [
+                1366,
+                626
+            ],
+            "right_kp": [
+                1433,
+                630
+            ],
+            "ray_angle": 1.7841140489466032,
+            "movement_type": "translation"
+        },
+        "176": {
+            "depth": 48.82860718099359,
+            "angle": 1.7599705671711983,
+            "pixel_distance": 66.0,
+            "left_kp": [
+                1357,
+                618
+            ],
+            "right_kp": [
+                1423,
+                621
+            ],
+            "ray_angle": 1.7599705671711983,
+            "movement_type": "translation"
+        },
+        "177": {
+            "depth": 49.47944259091012,
+            "angle": 1.7368240942171775,
+            "pixel_distance": 65.0,
+            "left_kp": [
+                1348,
+                610
+            ],
+            "right_kp": [
+                1413,
+                613
+            ],
+            "ray_angle": 1.7368240942171775,
+            "movement_type": "translation"
+        },
+        "179": {
+            "depth": 51.64008370668985,
+            "angle": 1.6641651411668235,
+            "pixel_distance": 62.0,
+            "left_kp": [
+                1332,
+                594
+            ],
+            "right_kp": [
+                1394,
+                598
+            ],
+            "ray_angle": 1.6641651411668235,
+            "movement_type": "translation"
+        },
+        "180": {
+            "depth": 52.4424120695205,
+            "angle": 1.6387081989892822,
+            "pixel_distance": 61.0,
+            "left_kp": [
+                1324,
+                587
+            ],
+            "right_kp": [
+                1385,
+                590
+            ],
+            "ray_angle": 1.6387081989892822,
+            "movement_type": "translation"
+        },
+        "181": {
+            "depth": 54.08011720224066,
+            "angle": 1.589089752380056,
+            "pixel_distance": 59.0,
+            "left_kp": [
+                1317,
+                579
+            ],
+            "right_kp": [
+                1376,
+                583
+            ],
+            "ray_angle": 1.589089752380056,
+            "movement_type": "translation"
+        },
+        "182": {
+            "depth": 53.99920922476368,
+            "angle": 1.5914704079520714,
+            "pixel_distance": 59.0,
+            "left_kp": [
+                1309,
+                572
+            ],
+            "right_kp": [
+                1368,
+                576
+            ],
+            "ray_angle": 1.5914704079520714,
+            "movement_type": "translation"
+        },
+        "183": {
+            "depth": 55.87275494985797,
+            "angle": 1.5381111588376828,
+            "pixel_distance": 57.0,
+            "left_kp": [
+                1303,
+                566
+            ],
+            "right_kp": [
+                1360,
+                569
+            ],
+            "ray_angle": 1.5381111588376828,
+            "movement_type": "translation"
+        },
+        "184": {
+            "depth": 55.803117526089146,
+            "angle": 1.5400303564508064,
+            "pixel_distance": 57.0,
+            "left_kp": [
+                1296,
+                559
+            ],
+            "right_kp": [
+                1353,
+                562
+            ],
+            "ray_angle": 1.5400303564508064,
+            "movement_type": "translation"
+        },
+        "185": {
+            "depth": 54.78194131429921,
+            "angle": 1.5687341162343191,
+            "pixel_distance": 58.0,
+            "left_kp": [
+                1289,
+                553
+            ],
+            "right_kp": [
+                1347,
+                556
+            ],
+            "ray_angle": 1.5687341162343191,
+            "movement_type": "translation"
+        },
+        "186": {
+            "depth": 56.666097085747744,
+            "angle": 1.5165796795393833,
+            "pixel_distance": 56.0,
+            "left_kp": [
+                1283,
+                547
+            ],
+            "right_kp": [
+                1339,
+                550
+            ],
+            "ray_angle": 1.5165796795393833,
+            "movement_type": "translation"
+        },
+        "187": {
+            "depth": 57.640744234396294,
+            "angle": 1.4909387577208328,
+            "pixel_distance": 55.0,
+            "left_kp": [
+                1278,
+                541
+            ],
+            "right_kp": [
+                1333,
+                544
+            ],
+            "ray_angle": 1.4909387577208328,
+            "movement_type": "translation"
+        },
+        "188": {
+            "depth": 58.69538958272777,
+            "angle": 1.4641523450129381,
+            "pixel_distance": 54.0,
+            "left_kp": [
+                1272,
+                536
+            ],
+            "right_kp": [
+                1326,
+                538
+            ],
+            "ray_angle": 1.4641523450129381,
+            "movement_type": "translation"
+        },
+        "189": {
+            "depth": 59.69477491587484,
+            "angle": 1.439642710678948,
+            "pixel_distance": 53.0,
+            "left_kp": [
+                1267,
+                530
+            ],
+            "right_kp": [
+                1320,
+                533
+            ],
+            "ray_angle": 1.439642710678948,
+            "movement_type": "translation"
+        },
+        "190": {
+            "depth": 61.970506464387924,
+            "angle": 1.3867802354503938,
+            "pixel_distance": 51.0,
+            "left_kp": [
+                1262,
+                525
+            ],
+            "right_kp": [
+                1313,
+                528
+            ],
+            "ray_angle": 1.3867802354503938,
+            "movement_type": "translation"
+        }
+    },
+    "23": {
+        "186": {
+            "depth": 32.64722080415334,
+            "angle": 2.632032771869268,
+            "pixel_distance": 97.0,
+            "left_kp": [
+                1217,
+                736
+            ],
+            "right_kp": [
+                1314,
+                742
+            ],
+            "ray_angle": 2.632032771869268,
+            "movement_type": "translation"
+        },
+        "187": {
+            "depth": 33.98837387665167,
+            "angle": 2.52820933099028,
+            "pixel_distance": 93.0,
+            "left_kp": [
+                1209,
+                719
+            ],
+            "right_kp": [
+                1302,
+                724
+            ],
+            "ray_angle": 2.52820933099028,
+            "movement_type": "translation"
+        },
+        "188": {
+            "depth": 35.049378610001554,
+            "angle": 2.451699821112517,
+            "pixel_distance": 90.0,
+            "left_kp": [
+                1201,
+                703
+            ],
+            "right_kp": [
+                1291,
+                708
+            ],
+            "ray_angle": 2.451699821112517,
+            "movement_type": "translation"
+        },
+        "189": {
+            "depth": 35.78029216874514,
+            "angle": 2.4016317427445504,
+            "pixel_distance": 88.0,
+            "left_kp": [
+                1193,
+                688
+            ],
+            "right_kp": [
+                1281,
+                693
+            ],
+            "ray_angle": 2.4016317427445504,
+            "movement_type": "translation"
+        },
+        "190": {
+            "depth": 36.131609276425436,
+            "angle": 2.3782867859243426,
+            "pixel_distance": 87.0,
+            "left_kp": [
+                1185,
+                673
+            ],
+            "right_kp": [
+                1272,
+                678
+            ],
+            "ray_angle": 2.3782867859243426,
+            "movement_type": "translation"
+        },
+        "191": {
+            "depth": 37.813772674311814,
+            "angle": 2.272515966514294,
+            "pixel_distance": 83.0,
+            "left_kp": [
+                1179,
+                660
+            ],
+            "right_kp": [
+                1262,
+                665
+            ],
+            "ray_angle": 2.272515966514294,
+            "movement_type": "translation"
+        },
+        "192": {
+            "depth": 38.69188144391128,
+            "angle": 2.2209544856624865,
+            "pixel_distance": 81.0,
+            "left_kp": [
+                1172,
+                647
+            ],
+            "right_kp": [
+                1253,
+                652
+            ],
+            "ray_angle": 2.2209544856624865,
+            "movement_type": "translation"
+        },
+        "193": {
+            "depth": 39.6479935097439,
+            "angle": 2.167409059310131,
+            "pixel_distance": 79.0,
+            "left_kp": [
+                1166,
+                635
+            ],
+            "right_kp": [
+                1245,
+                639
+            ],
+            "ray_angle": 2.167409059310131,
+            "movement_type": "translation"
+        },
+        "194": {
+            "depth": 40.63146455506795,
+            "angle": 2.1149597066657857,
+            "pixel_distance": 77.0,
+            "left_kp": [
+                1160,
+                623
+            ],
+            "right_kp": [
+                1237,
+                627
+            ],
+            "ray_angle": 2.1149597066657857,
+            "movement_type": "translation"
+        },
+        "196": {
+            "depth": 42.7732532244778,
+            "angle": 2.009079425853351,
+            "pixel_distance": 73.0,
+            "left_kp": [
+                1149,
+                602
+            ],
+            "right_kp": [
+                1222,
+                606
+            ],
+            "ray_angle": 2.009079425853351,
+            "movement_type": "translation"
+        },
+        "197": {
+            "depth": 43.93978142236703,
+            "angle": 1.9557522031967112,
+            "pixel_distance": 71.0,
+            "left_kp": [
+                1144,
+                592
+            ],
+            "right_kp": [
+                1215,
+                596
+            ],
+            "ray_angle": 1.9557522031967112,
+            "movement_type": "translation"
+        },
+        "198": {
+            "depth": 44.53431323805962,
+            "angle": 1.9296479357401046,
+            "pixel_distance": 70.0,
+            "left_kp": [
+                1139,
+                582
+            ],
+            "right_kp": [
+                1209,
+                586
+            ],
+            "ray_angle": 1.9296479357401046,
+            "movement_type": "translation"
+        },
+        "200": {
+            "depth": 46.46510890358704,
+            "angle": 1.8494782137060088,
+            "pixel_distance": 67.0,
+            "left_kp": [
+                1130,
+                565
+            ],
+            "right_kp": [
+                1197,
+                569
+            ],
+            "ray_angle": 1.8494782137060088,
+            "movement_type": "translation"
+        },
+        "201": {
+            "depth": 46.43989764584784,
+            "angle": 1.850482082592879,
+            "pixel_distance": 67.0,
+            "left_kp": [
+                1125,
+                556
+            ],
+            "right_kp": [
+                1192,
+                560
+            ],
+            "ray_angle": 1.850482082592879,
+            "movement_type": "translation"
+        },
+        "205": {
+            "depth": 50.95099799105848,
+            "angle": 1.6866688792041986,
+            "pixel_distance": 61.0,
+            "left_kp": [
+                1110,
+                527
+            ],
+            "right_kp": [
+                1171,
+                530
+            ],
+            "ray_angle": 1.6866688792041986,
+            "movement_type": "translation"
+        }
+    },
+    "28": {
+        "205": {
+            "depth": 35.650393488780466,
+            "angle": 2.4103799476586145,
+            "pixel_distance": 102.0,
+            "left_kp": [
+                1767,
+                737
+            ],
+            "right_kp": [
+                1869,
+                744
+            ],
+            "ray_angle": 2.4103799476586145,
+            "movement_type": "translation"
+        },
+        "206": {
+            "depth": 36.13226381951647,
+            "angle": 2.3782437151603584,
+            "pixel_distance": 100.0,
+            "left_kp": [
+                1751,
+                726
+            ],
+            "right_kp": [
+                1851,
+                733
+            ],
+            "ray_angle": 2.3782437151603584,
+            "movement_type": "translation"
+        },
+        "207": {
+            "depth": 36.6549525573189,
+            "angle": 2.344340196303489,
+            "pixel_distance": 98.0,
+            "left_kp": [
+                1735,
+                716
+            ],
+            "right_kp": [
+                1833,
+                722
+            ],
+            "ray_angle": 2.344340196303489,
+            "movement_type": "translation"
+        },
+        "208": {
+            "depth": 37.21673112774067,
+            "angle": 2.308962534891046,
+            "pixel_distance": 96.0,
+            "left_kp": [
+                1720,
+                707
+            ],
+            "right_kp": [
+                1816,
+                712
+            ],
+            "ray_angle": 2.308962534891046,
+            "movement_type": "translation"
+        },
+        "209": {
+            "depth": 37.78007300406909,
+            "angle": 2.274542509290849,
+            "pixel_distance": 94.0,
+            "left_kp": [
+                1705,
+                697
+            ],
+            "right_kp": [
+                1799,
+                703
+            ],
+            "ray_angle": 2.274542509290849,
+            "movement_type": "translation"
+        },
+        "210": {
+            "depth": 38.39742400625471,
+            "angle": 2.2379819538903245,
+            "pixel_distance": 92.0,
+            "left_kp": [
+                1691,
+                687
+            ],
+            "right_kp": [
+                1783,
+                693
+            ],
+            "ray_angle": 2.2379819538903245,
+            "movement_type": "translation"
+        },
+        "211": {
+            "depth": 39.06147397717853,
+            "angle": 2.1999454076527494,
+            "pixel_distance": 90.0,
+            "left_kp": [
+                1678,
+                679
+            ],
+            "right_kp": [
+                1768,
+                685
+            ],
+            "ray_angle": 2.1999454076527494,
+            "movement_type": "translation"
+        },
+        "212": {
+            "depth": 39.306345955117585,
+            "angle": 2.1862434506951263,
+            "pixel_distance": 89.0,
+            "left_kp": [
+                1664,
+                670
+            ],
+            "right_kp": [
+                1753,
+                676
+            ],
+            "ray_angle": 2.1862434506951263,
+            "movement_type": "translation"
+        },
+        "213": {
+            "depth": 40.0433941048071,
+            "angle": 2.146012434720977,
+            "pixel_distance": 87.0,
+            "left_kp": [
+                1651,
+                662
+            ],
+            "right_kp": [
+                1738,
+                667
+            ],
+            "ray_angle": 2.146012434720977,
+            "movement_type": "translation"
+        },
+        "214": {
+            "depth": 40.810364124221294,
+            "angle": 2.10569049201045,
+            "pixel_distance": 85.0,
+            "left_kp": [
+                1639,
+                654
+            ],
+            "right_kp": [
+                1724,
+                659
+            ],
+            "ray_angle": 2.10569049201045,
+            "movement_type": "translation"
+        },
+        "215": {
+            "depth": 41.12955117305065,
+            "angle": 2.0893528568231567,
+            "pixel_distance": 84.0,
+            "left_kp": [
+                1627,
+                646
+            ],
+            "right_kp": [
+                1711,
+                651
+            ],
+            "ray_angle": 2.0893528568231567,
+            "movement_type": "translation"
+        },
+        "216": {
+            "depth": 41.97108625236717,
+            "angle": 2.0474696019419345,
+            "pixel_distance": 82.0,
+            "left_kp": [
+                1616,
+                639
+            ],
+            "right_kp": [
+                1698,
+                644
+            ],
+            "ray_angle": 2.0474696019419345,
+            "movement_type": "translation"
+        },
+        "217": {
+            "depth": 42.334978287368564,
+            "angle": 2.029874190638127,
+            "pixel_distance": 81.0,
+            "left_kp": [
+                1605,
+                631
+            ],
+            "right_kp": [
+                1686,
+                636
+            ],
+            "ray_angle": 2.029874190638127,
+            "movement_type": "translation"
+        },
+        "218": {
+            "depth": 42.72602060899864,
+            "angle": 2.0112999602558466,
+            "pixel_distance": 80.0,
+            "left_kp": [
+                1593,
+                625
+            ],
+            "right_kp": [
+                1673,
+                629
+            ],
+            "ray_angle": 2.0112999602558466,
+            "movement_type": "translation"
+        },
+        "221": {
+            "depth": 44.54618345864612,
+            "angle": 1.9291338396545765,
+            "pixel_distance": 76.0,
+            "left_kp": [
+                1563,
+                605
+            ],
+            "right_kp": [
+                1639,
+                609
+            ],
+            "ray_angle": 1.9291338396545765,
+            "movement_type": "translation"
+        },
+        "222": {
+            "depth": 44.96918438843036,
+            "angle": 1.9109908954507542,
+            "pixel_distance": 75.0,
+            "left_kp": [
+                1553,
+                598
+            ],
+            "right_kp": [
+                1628,
+                603
+            ],
+            "ray_angle": 1.9109908954507542,
+            "movement_type": "translation"
+        },
+        "223": {
+            "depth": 45.47470273734582,
+            "angle": 1.889751287927089,
+            "pixel_distance": 74.0,
+            "left_kp": [
+                1543,
+                592
+            ],
+            "right_kp": [
+                1617,
+                596
+            ],
+            "ray_angle": 1.889751287927089,
+            "movement_type": "translation"
+        },
+        "224": {
+            "depth": 46.61806514981698,
+            "angle": 1.8434110300644293,
+            "pixel_distance": 72.0,
+            "left_kp": [
+                1535,
+                587
+            ],
+            "right_kp": [
+                1607,
+                591
+            ],
+            "ray_angle": 1.8434110300644293,
+            "movement_type": "translation"
+        },
+        "225": {
+            "depth": 46.49079848514818,
+            "angle": 1.8484564184432892,
+            "pixel_distance": 72.0,
+            "left_kp": [
+                1525,
+                581
+            ],
+            "right_kp": [
+                1597,
+                585
+            ],
+            "ray_angle": 1.8484564184432892,
+            "movement_type": "translation"
+        },
+        "226": {
+            "depth": 47.06736020314085,
+            "angle": 1.8258172111229793,
+            "pixel_distance": 71.0,
+            "left_kp": [
+                1517,
+                576
+            ],
+            "right_kp": [
+                1588,
+                579
+            ],
+            "ray_angle": 1.8258172111229793,
+            "movement_type": "translation"
+        },
+        "228": {
+            "depth": 48.16578747769171,
+            "angle": 1.7841860110954293,
+            "pixel_distance": 69.0,
+            "left_kp": [
+                1500,
+                565
+            ],
+            "right_kp": [
+                1569,
+                569
+            ],
+            "ray_angle": 1.7841860110954293,
+            "movement_type": "translation"
+        },
+        "232": {
+            "depth": 51.53709891041514,
+            "angle": 1.6674901156657418,
+            "pixel_distance": 64.0,
+            "left_kp": [
+                1470,
+                546
+            ],
+            "right_kp": [
+                1534,
+                549
+            ],
+            "ray_angle": 1.6674901156657418,
+            "movement_type": "translation"
+        },
+        "246": {
+            "depth": 58.798514676624336,
+            "angle": 1.4615846873219989,
+            "pixel_distance": 55.0,
+            "left_kp": [
+                1383,
+                490
+            ],
+            "right_kp": [
+                1438,
+                492
+            ],
+            "ray_angle": 1.4615846873219989,
+            "movement_type": "translation"
+        }
+    },
+    "37": {
+        "229": {
+            "depth": 24.3169908327622,
+            "angle": 3.5331852359883755,
+            "pixel_distance": 149.0,
+            "left_kp": [
+                1696,
+                934
+            ],
+            "right_kp": [
+                1845,
+                947
+            ],
+            "ray_angle": 3.5331852359883755,
+            "movement_type": "translation"
+        },
+        "230": {
+            "depth": 25.064350823718023,
+            "angle": 3.4278977647224282,
+            "pixel_distance": 143.0,
+            "left_kp": [
+                1671,
+                910
+            ],
+            "right_kp": [
+                1814,
+                921
+            ],
+            "ray_angle": 3.4278977647224282,
+            "movement_type": "translation"
+        },
+        "232": {
+            "depth": 26.249309875853974,
+            "angle": 3.273240091367515,
+            "pixel_distance": 134.0,
+            "left_kp": [
+                1625,
+                867
+            ],
+            "right_kp": [
+                1759,
+                876
+            ],
+            "ray_angle": 3.273240091367515,
+            "movement_type": "translation"
+        },
+        "233": {
+            "depth": 27.04400235956013,
+            "angle": 3.1771054191359567,
+            "pixel_distance": 129.0,
+            "left_kp": [
+                1605,
+                847
+            ],
+            "right_kp": [
+                1734,
+                856
+            ],
+            "ray_angle": 3.1771054191359567,
+            "movement_type": "translation"
+        },
+        "235": {
+            "depth": 29.136821220936117,
+            "angle": 2.949007190854545,
+            "pixel_distance": 118.0,
+            "left_kp": [
+                1567,
+                811
+            ],
+            "right_kp": [
+                1685,
+                816
+            ],
+            "ray_angle": 2.949007190854545,
+            "movement_type": "translation"
+        },
+        "236": {
+            "depth": 29.70602283337938,
+            "angle": 2.892525050082257,
+            "pixel_distance": 115.0,
+            "left_kp": [
+                1549,
+                794
+            ],
+            "right_kp": [
+                1664,
+                798
+            ],
+            "ray_angle": 2.892525050082257,
+            "movement_type": "translation"
+        },
+        "237": {
+            "depth": 30.606710528243855,
+            "angle": 2.8074390179915443,
+            "pixel_distance": 111.0,
+            "left_kp": [
+                1534,
+                778
+            ],
+            "right_kp": [
+                1645,
+                783
+            ],
+            "ray_angle": 2.8074390179915443,
+            "movement_type": "translation"
+        },
+        "238": {
+            "depth": 31.288048047720622,
+            "angle": 2.7463270874302226,
+            "pixel_distance": 108.0,
+            "left_kp": [
+                1518,
+                763
+            ],
+            "right_kp": [
+                1626,
+                767
+            ],
+            "ray_angle": 2.7463270874302226,
+            "movement_type": "translation"
+        },
+        "247": {
+            "depth": 36.71853052187308,
+            "angle": 2.340282111767037,
+            "pixel_distance": 89.0,
+            "left_kp": [
+                1408,
+                655
+            ],
+            "right_kp": [
+                1497,
+                659
+            ],
+            "ray_angle": 2.340282111767037,
+            "movement_type": "translation"
+        },
+        "248": {
+            "depth": 38.34584550753624,
+            "angle": 2.2409914673993074,
+            "pixel_distance": 85.0,
+            "left_kp": [
+                1398,
+                645
+            ],
+            "right_kp": [
+                1483,
+                648
+            ],
+            "ray_angle": 2.2409914673993074,
+            "movement_type": "translation"
+        },
+        "249": {
+            "depth": 39.1763692587923,
+            "angle": 2.1934950519348035,
+            "pixel_distance": 83.0,
+            "left_kp": [
+                1389,
+                636
+            ],
+            "right_kp": [
+                1472,
+                639
+            ],
+            "ray_angle": 2.1934950519348035,
+            "movement_type": "translation"
+        },
+        "250": {
+            "depth": 40.06194687739256,
+            "angle": 2.1450188440006612,
+            "pixel_distance": 81.0,
+            "left_kp": [
+                1380,
+                628
+            ],
+            "right_kp": [
+                1461,
+                630
+            ],
+            "ray_angle": 2.1450188440006612,
+            "movement_type": "translation"
+        },
+        "255": {
+            "depth": 42.86006272599414,
+            "angle": 2.0050110334518685,
+            "pixel_distance": 75.0,
+            "left_kp": [
+                1339,
+                588
+            ],
+            "right_kp": [
+                1414,
+                590
+            ],
+            "ray_angle": 2.0050110334518685,
+            "movement_type": "translation"
+        }
+    },
+    "40": {
+        "255": {
+            "depth": 44.58926004378903,
+            "angle": 1.9272705025980743,
+            "pixel_distance": 70.0,
+            "left_kp": [
+                1145,
+                577
+            ],
+            "right_kp": [
+                1215,
+                580
+            ],
+            "ray_angle": 1.9272705025980743,
+            "movement_type": "translation"
+        }
+    },
+    "46": {
+        "276": {
+            "depth": 148.23466887527024,
+            "angle": 0.5797762195290157,
+            "pixel_distance": 21.0,
+            "left_kp": [
+                1083,
+                327
+            ],
+            "right_kp": [
+                1104,
+                328
+            ],
+            "ray_angle": 0.5797762195290157,
+            "movement_type": "translation"
+        },
+        "277": {
+            "depth": 141.044083417149,
+            "angle": 0.6093333173794772,
+            "pixel_distance": 22.0,
+            "left_kp": [
+                1082,
+                325
+            ],
+            "right_kp": [
+                1104,
+                327
+            ],
+            "ray_angle": 0.6093333173794772,
+            "movement_type": "translation"
+        }
+    },
+    "52": {
+        "329": {
+            "depth": 37.07479597124588,
+            "angle": 2.3177996368449363,
+            "pixel_distance": 98.0,
+            "left_kp": [
+                1768,
+                729
+            ],
+            "right_kp": [
+                1866,
+                736
+            ],
+            "ray_angle": 2.3177996368449363,
+            "movement_type": "translation"
+        },
+        "330": {
+            "depth": 37.59379024204201,
+            "angle": 2.285810219948151,
+            "pixel_distance": 96.0,
+            "left_kp": [
+                1751,
+                718
+            ],
+            "right_kp": [
+                1847,
+                725
+            ],
+            "ray_angle": 2.285810219948151,
+            "movement_type": "translation"
+        },
+        "331": {
+            "depth": 38.140282445159094,
+            "angle": 2.2530665398159777,
+            "pixel_distance": 94.0,
+            "left_kp": [
+                1734,
+                707
+            ],
+            "right_kp": [
+                1828,
+                714
+            ],
+            "ray_angle": 2.2530665398159777,
+            "movement_type": "translation"
+        },
+        "332": {
+            "depth": 39.1820505162699,
+            "angle": 2.193177080649649,
+            "pixel_distance": 91.0,
+            "left_kp": [
+                1719,
+                697
+            ],
+            "right_kp": [
+                1810,
+                703
+            ],
+            "ray_angle": 2.193177080649649,
+            "movement_type": "translation"
+        },
+        "333": {
+            "depth": 39.83521314154862,
+            "angle": 2.157224968307672,
+            "pixel_distance": 89.0,
+            "left_kp": [
+                1704,
+                687
+            ],
+            "right_kp": [
+                1793,
+                693
+            ],
+            "ray_angle": 2.157224968307672,
+            "movement_type": "translation"
+        },
+        "334": {
+            "depth": 40.091983807862775,
+            "angle": 2.143412169968474,
+            "pixel_distance": 88.0,
+            "left_kp": [
+                1689,
+                678
+            ],
+            "right_kp": [
+                1777,
+                683
+            ],
+            "ray_angle": 2.143412169968474,
+            "movement_type": "translation"
+        },
+        "335": {
+            "depth": 40.79086670605138,
+            "angle": 2.1066967535442265,
+            "pixel_distance": 86.0,
+            "left_kp": [
+                1675,
+                668
+            ],
+            "right_kp": [
+                1761,
+                674
+            ],
+            "ray_angle": 2.1066967535442265,
+            "movement_type": "translation"
+        },
+        "336": {
+            "depth": 41.06913403068853,
+            "angle": 2.0924258383998207,
+            "pixel_distance": 85.0,
+            "left_kp": [
+                1661,
+                659
+            ],
+            "right_kp": [
+                1746,
+                665
+            ],
+            "ray_angle": 2.0924258383998207,
+            "movement_type": "translation"
+        },
+        "337": {
+            "depth": 41.88907416037784,
+            "angle": 2.051477363576859,
+            "pixel_distance": 83.0,
+            "left_kp": [
+                1648,
+                651
+            ],
+            "right_kp": [
+                1731,
+                656
+            ],
+            "ray_angle": 2.051477363576859,
+            "movement_type": "translation"
+        },
+        "338": {
+            "depth": 42.70940736202857,
+            "angle": 2.0120821616221427,
+            "pixel_distance": 81.0,
+            "left_kp": [
+                1636,
+                642
+            ],
+            "right_kp": [
+                1717,
+                648
+            ],
+            "ray_angle": 2.0120821616221427,
+            "movement_type": "translation"
+        },
+        "339": {
+            "depth": 43.088574730972276,
+            "angle": 1.9943799942226472,
+            "pixel_distance": 80.0,
+            "left_kp": [
+                1623,
+                635
+            ],
+            "right_kp": [
+                1703,
+                640
+            ],
+            "ray_angle": 1.9943799942226472,
+            "movement_type": "translation"
+        },
+        "340": {
+            "depth": 44.023512661967075,
+            "angle": 1.9520331485705675,
+            "pixel_distance": 78.0,
+            "left_kp": [
+                1612,
+                627
+            ],
+            "right_kp": [
+                1690,
+                632
+            ],
+            "ray_angle": 1.9520331485705675,
+            "movement_type": "translation"
+        },
+        "341": {
+            "depth": 44.97161199209765,
+            "angle": 1.9108877577533985,
+            "pixel_distance": 76.0,
+            "left_kp": [
+                1601,
+                619
+            ],
+            "right_kp": [
+                1677,
+                625
+            ],
+            "ray_angle": 1.9108877577533985,
+            "movement_type": "translation"
+        },
+        "342": {
+            "depth": 45.44989708732138,
+            "angle": 1.8907824894607748,
+            "pixel_distance": 75.0,
+            "left_kp": [
+                1590,
+                612
+            ],
+            "right_kp": [
+                1665,
+                617
+            ],
+            "ray_angle": 1.8907824894607748,
+            "movement_type": "translation"
+        },
+        "343": {
+            "depth": 45.90407914670162,
+            "angle": 1.8720781401753372,
+            "pixel_distance": 74.0,
+            "left_kp": [
+                1579,
+                605
+            ],
+            "right_kp": [
+                1653,
+                610
+            ],
+            "ray_angle": 1.8720781401753372,
+            "movement_type": "translation"
+        },
+        "344": {
+            "depth": 45.757098830947186,
+            "angle": 1.8780905284272973,
+            "pixel_distance": 74.0,
+            "left_kp": [
+                1568,
+                599
+            ],
+            "right_kp": [
+                1642,
+                604
+            ],
+            "ray_angle": 1.8780905284272973,
+            "movement_type": "translation"
+        },
+        "345": {
+            "depth": 46.885973331517846,
+            "angle": 1.8328795130242723,
+            "pixel_distance": 72.0,
+            "left_kp": [
+                1559,
+                592
+            ],
+            "right_kp": [
+                1631,
+                597
+            ],
+            "ray_angle": 1.8328795130242723,
+            "movement_type": "translation"
+        },
+        "346": {
+            "depth": 47.40195617841912,
+            "angle": 1.812931481447625,
+            "pixel_distance": 71.0,
+            "left_kp": [
+                1549,
+                586
+            ],
+            "right_kp": [
+                1620,
+                591
+            ],
+            "ray_angle": 1.812931481447625,
+            "movement_type": "translation"
+        },
+        "347": {
+            "depth": 47.99113768417456,
+            "angle": 1.7906779823220202,
+            "pixel_distance": 70.0,
+            "left_kp": [
+                1540,
+                580
+            ],
+            "right_kp": [
+                1610,
+                584
+            ],
+            "ray_angle": 1.7906779823220202,
+            "movement_type": "translation"
+        },
+        "348": {
+            "depth": 48.557510088607316,
+            "angle": 1.7697949433610067,
+            "pixel_distance": 69.0,
+            "left_kp": [
+                1531,
+                574
+            ],
+            "right_kp": [
+                1600,
+                578
+            ],
+            "ray_angle": 1.7697949433610067,
+            "movement_type": "translation"
+        },
+        "349": {
+            "depth": 49.14344102661019,
+            "angle": 1.7486972010201989,
+            "pixel_distance": 68.0,
+            "left_kp": [
+                1522,
+                569
+            ],
+            "right_kp": [
+                1590,
+                573
+            ],
+            "ray_angle": 1.7486972010201989,
+            "movement_type": "translation"
+        },
+        "350": {
+            "depth": 49.76171192969439,
+            "angle": 1.7269735941281168,
+            "pixel_distance": 67.0,
+            "left_kp": [
+                1514,
+                564
+            ],
+            "right_kp": [
+                1581,
+                568
+            ],
+            "ray_angle": 1.7269735941281168,
+            "movement_type": "translation"
+        },
+        "351": {
+            "depth": 51.1657695315197,
+            "angle": 1.6795899964340528,
+            "pixel_distance": 65.0,
+            "left_kp": [
+                1506,
+                558
+            ],
+            "right_kp": [
+                1571,
+                562
+            ],
+            "ray_angle": 1.6795899964340528,
+            "movement_type": "translation"
+        },
+        "352": {
+            "depth": 51.06003023794278,
+            "angle": 1.683067729308156,
+            "pixel_distance": 65.0,
+            "left_kp": [
+                1498,
+                553
+            ],
+            "right_kp": [
+                1563,
+                557
+            ],
+            "ray_angle": 1.683067729308156,
+            "movement_type": "translation"
+        },
+        "353": {
+            "depth": 51.74264179858182,
+            "angle": 1.6608670939369194,
+            "pixel_distance": 64.0,
+            "left_kp": [
+                1490,
+                548
+            ],
+            "right_kp": [
+                1554,
+                552
+            ],
+            "ray_angle": 1.6608670939369194,
+            "movement_type": "translation"
+        },
+        "354": {
+            "depth": 52.46148763092469,
+            "angle": 1.6381124282428718,
+            "pixel_distance": 63.0,
+            "left_kp": [
+                1483,
+                543
+            ],
+            "right_kp": [
+                1546,
+                547
+            ],
+            "ray_angle": 1.6381124282428718,
+            "movement_type": "translation"
+        },
+        "355": {
+            "depth": 52.357777104402324,
+            "angle": 1.6413567655498131,
+            "pixel_distance": 63.0,
+            "left_kp": [
+                1475,
+                538
+            ],
+            "right_kp": [
+                1538,
+                542
+            ],
+            "ray_angle": 1.6413567655498131,
+            "movement_type": "translation"
+        },
+        "356": {
+            "depth": 53.153489111146584,
+            "angle": 1.6167888083076936,
+            "pixel_distance": 62.0,
+            "left_kp": [
+                1468,
+                534
+            ],
+            "right_kp": [
+                1530,
+                537
+            ],
+            "ray_angle": 1.6167888083076936,
+            "movement_type": "translation"
+        },
+        "357": {
+            "depth": 53.87099862451016,
+            "angle": 1.5952575485517937,
+            "pixel_distance": 61.0,
+            "left_kp": [
+                1461,
+                529
+            ],
+            "right_kp": [
+                1522,
+                533
+            ],
+            "ray_angle": 1.5952575485517937,
+            "movement_type": "translation"
+        },
+        "358": {
+            "depth": 54.68008584438381,
+            "angle": 1.571655913623542,
+            "pixel_distance": 60.0,
+            "left_kp": [
+                1455,
+                524
+            ],
+            "right_kp": [
+                1515,
+                528
+            ],
+            "ray_angle": 1.571655913623542,
+            "movement_type": "translation"
+        },
+        "359": {
+            "depth": 55.50525748756342,
+            "angle": 1.5482936786136712,
+            "pixel_distance": 59.0,
+            "left_kp": [
+                1448,
+                520
+            ],
+            "right_kp": [
+                1507,
+                524
+            ],
+            "ray_angle": 1.5482936786136712,
+            "movement_type": "translation"
+        },
+        "360": {
+            "depth": 56.43756265589365,
+            "angle": 1.522720092763246,
+            "pixel_distance": 58.0,
+            "left_kp": [
+                1442,
+                516
+            ],
+            "right_kp": [
+                1500,
+                519
+            ],
+            "ray_angle": 1.522720092763246,
+            "movement_type": "translation"
+        },
+        "361": {
+            "depth": 57.34045453047127,
+            "angle": 1.4987458572456962,
+            "pixel_distance": 57.0,
+            "left_kp": [
+                1436,
+                512
+            ],
+            "right_kp": [
+                1493,
+                515
+            ],
+            "ray_angle": 1.4987458572456962,
+            "movement_type": "translation"
+        },
+        "362": {
+            "depth": 58.20450593565445,
+            "angle": 1.476499313991324,
+            "pixel_distance": 56.0,
+            "left_kp": [
+                1430,
+                507
+            ],
+            "right_kp": [
+                1486,
+                511
+            ],
+            "ray_angle": 1.476499313991324,
+            "movement_type": "translation"
+        },
+        "363": {
+            "depth": 58.12756820590434,
+            "angle": 1.4784533938030753,
+            "pixel_distance": 56.0,
+            "left_kp": [
+                1424,
+                503
+            ],
+            "right_kp": [
+                1480,
+                507
+            ],
+            "ray_angle": 1.4784533938030753,
+            "movement_type": "translation"
+        },
+        "364": {
+            "depth": 59.17136263889406,
+            "angle": 1.4523760041913532,
+            "pixel_distance": 55.0,
+            "left_kp": [
+                1418,
+                500
+            ],
+            "right_kp": [
+                1473,
+                503
+            ],
+            "ray_angle": 1.4523760041913532,
+            "movement_type": "translation"
+        },
+        "365": {
+            "depth": 59.095700494193174,
+            "angle": 1.4542353288425462,
+            "pixel_distance": 55.0,
+            "left_kp": [
+                1412,
+                496
+            ],
+            "right_kp": [
+                1467,
+                499
+            ],
+            "ray_angle": 1.4542353288425462,
+            "movement_type": "translation"
+        },
+        "366": {
+            "depth": 60.11676930448959,
+            "angle": 1.4295380776381312,
+            "pixel_distance": 54.0,
+            "left_kp": [
+                1407,
+                492
+            ],
+            "right_kp": [
+                1461,
+                495
+            ],
+            "ray_angle": 1.4295380776381312,
+            "movement_type": "translation"
+        },
+        "367": {
+            "depth": 60.04177345410258,
+            "angle": 1.4313234726052333,
+            "pixel_distance": 54.0,
+            "left_kp": [
+                1401,
+                489
+            ],
+            "right_kp": [
+                1455,
+                492
+            ],
+            "ray_angle": 1.4313234726052333,
+            "movement_type": "translation"
+        },
+        "368": {
+            "depth": 61.1018880478469,
+            "angle": 1.4064926005119343,
+            "pixel_distance": 53.0,
+            "left_kp": [
+                1396,
+                485
+            ],
+            "right_kp": [
+                1449,
+                488
+            ],
+            "ray_angle": 1.4064926005119343,
+            "movement_type": "translation"
+        },
+        "369": {
+            "depth": 62.27089311827794,
+            "angle": 1.3800912371777079,
+            "pixel_distance": 52.0,
+            "left_kp": [
+                1391,
+                482
+            ],
+            "right_kp": [
+                1443,
+                484
+            ],
+            "ray_angle": 1.3800912371777079,
+            "movement_type": "translation"
+        },
+        "370": {
+            "depth": 63.42023259304141,
+            "angle": 1.3550827495274043,
+            "pixel_distance": 51.0,
+            "left_kp": [
+                1386,
+                479
+            ],
+            "right_kp": [
+                1437,
+                481
+            ],
+            "ray_angle": 1.3550827495274043,
+            "movement_type": "translation"
+        },
+        "371": {
+            "depth": 63.2867218999548,
+            "angle": 1.3579411866928668,
+            "pixel_distance": 51.0,
+            "left_kp": [
+                1381,
+                475
+            ],
+            "right_kp": [
+                1432,
+                478
+            ],
+            "ray_angle": 1.3579411866928668,
+            "movement_type": "translation"
+        },
+        "372": {
+            "depth": 64.55470489465236,
+            "angle": 1.3312709407449748,
+            "pixel_distance": 50.0,
+            "left_kp": [
+                1376,
+                472
+            ],
+            "right_kp": [
+                1426,
+                474
+            ],
+            "ray_angle": 1.3312709407449748,
+            "movement_type": "translation"
+        },
+        "373": {
+            "depth": 64.41668061245247,
+            "angle": 1.3341231698304594,
+            "pixel_distance": 50.0,
+            "left_kp": [
+                1371,
+                469
+            ],
+            "right_kp": [
+                1421,
+                472
+            ],
+            "ray_angle": 1.3341231698304594,
+            "movement_type": "translation"
+        },
+        "375": {
+            "depth": 65.608874017753,
+            "angle": 1.3098826529940033,
+            "pixel_distance": 49.0,
+            "left_kp": [
+                1362,
+                463
+            ],
+            "right_kp": [
+                1411,
+                466
+            ],
+            "ray_angle": 1.3098826529940033,
+            "movement_type": "translation"
+        },
+        "376": {
+            "depth": 65.630235757731,
+            "angle": 1.3094563413084428,
+            "pixel_distance": 49.0,
+            "left_kp": [
+                1357,
+                460
+            ],
+            "right_kp": [
+                1406,
+                462
+            ],
+            "ray_angle": 1.3094563413084428,
+            "movement_type": "translation"
+        },
+        "377": {
+            "depth": 66.85375309403621,
+            "angle": 1.2854934851142625,
+            "pixel_distance": 48.0,
+            "left_kp": [
+                1353,
+                457
+            ],
+            "right_kp": [
+                1401,
+                460
+            ],
+            "ray_angle": 1.2854934851142625,
+            "movement_type": "translation"
+        },
+        "378": {
+            "depth": 68.30708926215554,
+            "angle": 1.258144897634119,
+            "pixel_distance": 47.0,
+            "left_kp": [
+                1349,
+                454
+            ],
+            "right_kp": [
+                1396,
+                456
+            ],
+            "ray_angle": 1.258144897634119,
+            "movement_type": "translation"
+        },
+        "379": {
+            "depth": 69.63542850990838,
+            "angle": 1.2341468725593066,
+            "pixel_distance": 46.0,
+            "left_kp": [
+                1345,
+                451
+            ],
+            "right_kp": [
+                1391,
+                454
+            ],
+            "ray_angle": 1.2341468725593066,
+            "movement_type": "translation"
+        },
+        "380": {
+            "depth": 69.58744815442368,
+            "angle": 1.234997747589779,
+            "pixel_distance": 46.0,
+            "left_kp": [
+                1341,
+                448
+            ],
+            "right_kp": [
+                1387,
+                451
+            ],
+            "ray_angle": 1.234997747589779,
+            "movement_type": "translation"
+        },
+        "381": {
+            "depth": 69.63763207030682,
+            "angle": 1.2341078231715945,
+            "pixel_distance": 46.0,
+            "left_kp": [
+                1337,
+                446
+            ],
+            "right_kp": [
+                1383,
+                448
+            ],
+            "ray_angle": 1.2341078231715945,
+            "movement_type": "translation"
+        },
+        "382": {
+            "depth": 71.02254220274405,
+            "angle": 1.2100450388280635,
+            "pixel_distance": 45.0,
+            "left_kp": [
+                1333,
+                443
+            ],
+            "right_kp": [
+                1378,
+                446
+            ],
+            "ray_angle": 1.2100450388280635,
+            "movement_type": "translation"
+        },
+        "383": {
+            "depth": 71.07947270641809,
+            "angle": 1.2090759354260572,
+            "pixel_distance": 45.0,
+            "left_kp": [
+                1329,
+                441
+            ],
+            "right_kp": [
+                1374,
+                443
+            ],
+            "ray_angle": 1.2090759354260572,
+            "movement_type": "translation"
+        },
+        "384": {
+            "depth": 72.52522774542459,
+            "angle": 1.1849753320773302,
+            "pixel_distance": 44.0,
+            "left_kp": [
+                1325,
+                438
+            ],
+            "right_kp": [
+                1369,
+                441
+            ],
+            "ray_angle": 1.1849753320773302,
+            "movement_type": "translation"
+        },
+        "385": {
+            "depth": 74.27958620937697,
+            "angle": 1.1569901396358715,
+            "pixel_distance": 43.0,
+            "left_kp": [
+                1322,
+                436
+            ],
+            "right_kp": [
+                1365,
+                438
+            ],
+            "ray_angle": 1.1569901396358715,
+            "movement_type": "translation"
+        },
+        "387": {
+            "depth": 72.50937798705746,
+            "angle": 1.1852343362761966,
+            "pixel_distance": 44.0,
+            "left_kp": [
+                1314,
+                431
+            ],
+            "right_kp": [
+                1358,
+                433
+            ],
+            "ray_angle": 1.1852343362761966,
+            "movement_type": "translation"
+        },
+        "388": {
+            "depth": 74.0317506144578,
+            "angle": 1.160863123215658,
+            "pixel_distance": 43.0,
+            "left_kp": [
+                1311,
+                428
+            ],
+            "right_kp": [
+                1354,
+                431
+            ],
+            "ray_angle": 1.160863123215658,
+            "movement_type": "translation"
+        },
+        "389": {
+            "depth": 75.74273994258662,
+            "angle": 1.1346415593136792,
+            "pixel_distance": 42.0,
+            "left_kp": [
+                1308,
+                426
+            ],
+            "right_kp": [
+                1350,
+                429
+            ],
+            "ray_angle": 1.1346415593136792,
+            "movement_type": "translation"
+        },
+        "396": {
+            "depth": 79.22478092637502,
+            "angle": 1.0847755084396633,
+            "pixel_distance": 40.0,
+            "left_kp": [
+                1285,
+                411
+            ],
+            "right_kp": [
+                1325,
+                414
+            ],
+            "ray_angle": 1.0847755084396633,
+            "movement_type": "translation"
+        },
+        "397": {
+            "depth": 79.1917022449466,
+            "angle": 1.085228596293657,
+            "pixel_distance": 40.0,
+            "left_kp": [
+                1282,
+                409
+            ],
+            "right_kp": [
+                1322,
+                412
+            ],
+            "ray_angle": 1.085228596293657,
+            "movement_type": "translation"
+        },
+        "398": {
+            "depth": 81.32744455498198,
+            "angle": 1.0567310150624256,
+            "pixel_distance": 39.0,
+            "left_kp": [
+                1279,
+                407
+            ],
+            "right_kp": [
+                1318,
+                409
+            ],
+            "ray_angle": 1.0567310150624256,
+            "movement_type": "translation"
+        },
+        "400": {
+            "depth": 83.21635549358378,
+            "angle": 1.0327458089914738,
+            "pixel_distance": 38.0,
+            "left_kp": [
+                1273,
+                403
+            ],
+            "right_kp": [
+                1311,
+                406
+            ],
+            "ray_angle": 1.0327458089914738,
+            "movement_type": "translation"
+        },
+        "405": {
+            "depth": 87.84349462386591,
+            "angle": 0.9783488397656069,
+            "pixel_distance": 36.0,
+            "left_kp": [
+                1260,
+                394
+            ],
+            "right_kp": [
+                1296,
+                396
+            ],
+            "ray_angle": 0.9783488397656069,
+            "movement_type": "translation"
+        }
+    },
+    "54": {
+        "334": {
+            "depth": 29.57812951737505,
+            "angle": 2.9050267358818687,
+            "pixel_distance": 108.0,
+            "left_kp": [
+                1256,
+                768
+            ],
+            "right_kp": [
+                1364,
+                774
+            ],
+            "ray_angle": 2.9050267358818687,
+            "movement_type": "translation"
+        },
+        "335": {
+            "depth": 30.33657170640887,
+            "angle": 2.8324283534831465,
+            "pixel_distance": 105.0,
+            "left_kp": [
+                1246,
+                750
+            ],
+            "right_kp": [
+                1351,
+                756
+            ],
+            "ray_angle": 2.8324283534831465,
+            "movement_type": "translation"
+        },
+        "338": {
+            "depth": 32.96240853397198,
+            "angle": 2.6068739046259117,
+            "pixel_distance": 96.0,
+            "left_kp": [
+                1220,
+                702
+            ],
+            "right_kp": [
+                1316,
+                707
+            ],
+            "ray_angle": 2.6068739046259117,
+            "movement_type": "translation"
+        },
+        "339": {
+            "depth": 33.959140723912185,
+            "angle": 2.5303849901946682,
+            "pixel_distance": 93.0,
+            "left_kp": [
+                1212,
+                688
+            ],
+            "right_kp": [
+                1305,
+                693
+            ],
+            "ray_angle": 2.5303849901946682,
+            "movement_type": "translation"
+        }
+    },
+    "59": {
+        "359": {
+            "depth": 22.032036567517043,
+            "angle": 3.899344235887953,
+            "pixel_distance": 146.0,
+            "left_kp": [
+                1272,
+                785
+            ],
+            "right_kp": [
+                1418,
+                793
+            ],
+            "ray_angle": 3.899344235887953,
+            "movement_type": "translation"
+        },
+        "360": {
+            "depth": 22.414637696699064,
+            "angle": 3.832835402681305,
+            "pixel_distance": 143.0,
+            "left_kp": [
+                1261,
+                766
+            ],
+            "right_kp": [
+                1404,
+                775
+            ],
+            "ray_angle": 3.832835402681305,
+            "movement_type": "translation"
+        },
+        "361": {
+            "depth": 23.166813254243696,
+            "angle": 3.7084799805903756,
+            "pixel_distance": 138.0,
+            "left_kp": [
+                1251,
+                749
+            ],
+            "right_kp": [
+                1389,
+                756
+            ],
+            "ray_angle": 3.7084799805903756,
+            "movement_type": "translation"
+        },
+        "362": {
+            "depth": 23.973928307907354,
+            "angle": 3.5837117422613436,
+            "pixel_distance": 133.0,
+            "left_kp": [
+                1241,
+                733
+            ],
+            "right_kp": [
+                1374,
+                739
+            ],
+            "ray_angle": 3.5837117422613436,
+            "movement_type": "translation"
+        },
+        "363": {
+            "depth": 24.465544491126185,
+            "angle": 3.511745368676093,
+            "pixel_distance": 130.0,
+            "left_kp": [
+                1233,
+                717
+            ],
+            "right_kp": [
+                1363,
+                724
+            ],
+            "ray_angle": 3.511745368676093,
+            "movement_type": "translation"
+        },
+        "364": {
+            "depth": 25.182676582662552,
+            "angle": 3.4118006522840902,
+            "pixel_distance": 126.0,
+            "left_kp": [
+                1224,
+                703
+            ],
+            "right_kp": [
+                1350,
+                710
+            ],
+            "ray_angle": 3.4118006522840902,
+            "movement_type": "translation"
+        },
+        "365": {
+            "depth": 25.961560070543268,
+            "angle": 3.309499599853586,
+            "pixel_distance": 122.0,
+            "left_kp": [
+                1216,
+                689
+            ],
+            "right_kp": [
+                1338,
+                695
+            ],
+            "ray_angle": 3.309499599853586,
+            "movement_type": "translation"
+        },
+        "366": {
+            "depth": 26.56564474692232,
+            "angle": 3.2342842569321735,
+            "pixel_distance": 119.0,
+            "left_kp": [
+                1208,
+                676
+            ],
+            "right_kp": [
+                1327,
+                682
+            ],
+            "ray_angle": 3.2342842569321735,
+            "movement_type": "translation"
+        },
+        "367": {
+            "depth": 27.44090284887301,
+            "angle": 3.131175351731478,
+            "pixel_distance": 115.0,
+            "left_kp": [
+                1201,
+                663
+            ],
+            "right_kp": [
+                1316,
+                669
+            ],
+            "ray_angle": 3.131175351731478,
+            "movement_type": "translation"
+        },
+        "368": {
+            "depth": 28.372108620343678,
+            "angle": 3.0284551736958574,
+            "pixel_distance": 111.0,
+            "left_kp": [
+                1195,
+                650
+            ],
+            "right_kp": [
+                1306,
+                657
+            ],
+            "ray_angle": 3.0284551736958574,
+            "movement_type": "translation"
+        },
+        "369": {
+            "depth": 29.129255229456152,
+            "angle": 2.9497728235217404,
+            "pixel_distance": 108.0,
+            "left_kp": [
+                1188,
+                639
+            ],
+            "right_kp": [
+                1296,
+                645
+            ],
+            "ray_angle": 2.9497728235217404,
+            "movement_type": "translation"
+        },
+        "370": {
+            "depth": 29.92156577804033,
+            "angle": 2.871697215496858,
+            "pixel_distance": 105.0,
+            "left_kp": [
+                1182,
+                628
+            ],
+            "right_kp": [
+                1287,
+                634
+            ],
+            "ray_angle": 2.871697215496858,
+            "movement_type": "translation"
+        },
+        "371": {
+            "depth": 30.17655832181274,
+            "angle": 2.847441344465067,
+            "pixel_distance": 104.0,
+            "left_kp": [
+                1176,
+                618
+            ],
+            "right_kp": [
+                1280,
+                624
+            ],
+            "ray_angle": 2.847441344465067,
+            "movement_type": "translation"
+        },
+        "372": {
+            "depth": 30.733367609691573,
+            "angle": 2.7958737172013355,
+            "pixel_distance": 102.0,
+            "left_kp": [
+                1170,
+                608
+            ],
+            "right_kp": [
+                1272,
+                614
+            ],
+            "ray_angle": 2.7958737172013355,
+            "movement_type": "translation"
+        },
+        "373": {
+            "depth": 31.968174708012448,
+            "angle": 2.687920319364246,
+            "pixel_distance": 98.0,
+            "left_kp": [
+                1165,
+                599
+            ],
+            "right_kp": [
+                1263,
+                604
+            ],
+            "ray_angle": 2.687920319364246,
+            "movement_type": "translation"
+        },
+        "375": {
+            "depth": 33.62075218224308,
+            "angle": 2.5558445858883565,
+            "pixel_distance": 93.0,
+            "left_kp": [
+                1154,
+                581
+            ],
+            "right_kp": [
+                1247,
+                586
+            ],
+            "ray_angle": 2.5558445858883565,
+            "movement_type": "translation"
+        },
+        "376": {
+            "depth": 33.96113370491016,
+            "angle": 2.530236544909518,
+            "pixel_distance": 92.0,
+            "left_kp": [
+                1149,
+                573
+            ],
+            "right_kp": [
+                1241,
+                578
+            ],
+            "ray_angle": 2.530236544909518,
+            "movement_type": "translation"
+        },
+        "377": {
+            "depth": 35.078623977560966,
+            "angle": 2.4496564396206066,
+            "pixel_distance": 89.0,
+            "left_kp": [
+                1145,
+                565
+            ],
+            "right_kp": [
+                1234,
+                570
+            ],
+            "ray_angle": 2.4496564396206066,
+            "movement_type": "translation"
+        },
+        "378": {
+            "depth": 35.835333629929515,
+            "angle": 2.3979440219842076,
+            "pixel_distance": 87.0,
+            "left_kp": [
+                1141,
+                557
+            ],
+            "right_kp": [
+                1228,
+                563
+            ],
+            "ray_angle": 2.3979440219842076,
+            "movement_type": "translation"
+        },
+        "379": {
+            "depth": 36.67747295432788,
+            "angle": 2.3429011452682396,
+            "pixel_distance": 85.0,
+            "left_kp": [
+                1136,
+                550
+            ],
+            "right_kp": [
+                1221,
+                555
+            ],
+            "ray_angle": 2.3429011452682396,
+            "movement_type": "translation"
+        },
+        "384": {
+            "depth": 39.87023089403225,
+            "angle": 2.15533073931694,
+            "pixel_distance": 78.0,
+            "left_kp": [
+                1118,
+                517
+            ],
+            "right_kp": [
+                1196,
+                522
+            ],
+            "ray_angle": 2.15533073931694,
+            "movement_type": "translation"
+        },
+        "396": {
+            "depth": 47.66398256052076,
+            "angle": 1.8029667818826987,
+            "pixel_distance": 65.0,
+            "left_kp": [
+                1083,
+                457
+            ],
+            "right_kp": [
+                1148,
+                462
+            ],
+            "ray_angle": 1.8029667818826987,
+            "movement_type": "translation"
+        }
+    },
+    "60": {
+        "357": {
+            "depth": 62.931204746242265,
+            "angle": 1.3656118773849555,
+            "pixel_distance": 54.0,
+            "left_kp": [
+                1699,
+                898
+            ],
+            "right_kp": [
+                1753,
+                885
+            ],
+            "ray_angle": 1.3656118773849555,
+            "movement_type": "translation"
+        },
+        "362": {
+            "depth": 29.460220302667125,
+            "angle": 2.916648570235645,
+            "pixel_distance": 116.0,
+            "left_kp": [
+                1553,
+                787
+            ],
+            "right_kp": [
+                1669,
+                795
+            ],
+            "ray_angle": 2.916648570235645,
+            "movement_type": "translation"
+        },
+        "363": {
+            "depth": 30.32198904051559,
+            "angle": 2.8337899898415606,
+            "pixel_distance": 112.0,
+            "left_kp": [
+                1535,
+                770
+            ],
+            "right_kp": [
+                1647,
+                777
+            ],
+            "ray_angle": 2.8337899898415606,
+            "movement_type": "translation"
+        },
+        "364": {
+            "depth": 31.570868951336564,
+            "angle": 2.721733994818921,
+            "pixel_distance": 107.0,
+            "left_kp": [
+                1520,
+                755
+            ],
+            "right_kp": [
+                1627,
+                761
+            ],
+            "ray_angle": 2.721733994818921,
+            "movement_type": "translation"
+        },
+        "365": {
+            "depth": 32.30722752233033,
+            "angle": 2.6597217393783237,
+            "pixel_distance": 104.0,
+            "left_kp": [
+                1504,
+                740
+            ],
+            "right_kp": [
+                1608,
+                746
+            ],
+            "ray_angle": 2.6597217393783237,
+            "movement_type": "translation"
+        },
+        "366": {
+            "depth": 33.447384706857044,
+            "angle": 2.5690878408171662,
+            "pixel_distance": 100.0,
+            "left_kp": [
+                1489,
+                727
+            ],
+            "right_kp": [
+                1589,
+                731
+            ],
+            "ray_angle": 2.5690878408171662,
+            "movement_type": "translation"
+        },
+        "367": {
+            "depth": 33.60542549001578,
+            "angle": 2.5570098633340907,
+            "pixel_distance": 99.0,
+            "left_kp": [
+                1473,
+                712
+            ],
+            "right_kp": [
+                1572,
+                718
+            ],
+            "ray_angle": 2.5570098633340907,
+            "movement_type": "translation"
+        },
+        "368": {
+            "depth": 34.155914782549026,
+            "angle": 2.5158120038801384,
+            "pixel_distance": 97.0,
+            "left_kp": [
+                1458,
+                698
+            ],
+            "right_kp": [
+                1555,
+                703
+            ],
+            "ray_angle": 2.5158120038801384,
+            "movement_type": "translation"
+        },
+        "369": {
+            "depth": 35.127226465451784,
+            "angle": 2.4462680934446235,
+            "pixel_distance": 94.0,
+            "left_kp": [
+                1446,
+                687
+            ],
+            "right_kp": [
+                1540,
+                691
+            ],
+            "ray_angle": 2.4462680934446235,
+            "movement_type": "translation"
+        },
+        "390": {
+            "depth": 73.87585991654063,
+            "angle": 1.1633125748010007,
+            "pixel_distance": 43.0,
+            "left_kp": [
+                1287,
+                524
+            ],
+            "right_kp": [
+                1330,
+                524
+            ],
+            "ray_angle": 1.1633125748010007,
+            "movement_type": "translation"
+        },
+        "391": {
+            "depth": 79.11948510319154,
+            "angle": 1.0862190907955342,
+            "pixel_distance": 40.0,
+            "left_kp": [
+                1282,
+                519
+            ],
+            "right_kp": [
+                1322,
+                516
+            ],
+            "ray_angle": 1.0862190907955342,
+            "movement_type": "translation"
+        },
+        "392": {
+            "depth": 77.24022356740267,
+            "angle": 1.1126452569810268,
+            "pixel_distance": 41.0,
+            "left_kp": [
+                1275,
+                513
+            ],
+            "right_kp": [
+                1316,
+                511
+            ],
+            "ray_angle": 1.1126452569810268,
+            "movement_type": "translation"
+        },
+        "399": {
+            "depth": 78.1998585697879,
+            "angle": 1.0989921957617514,
+            "pixel_distance": 40.0,
+            "left_kp": [
+                1239,
+                480
+            ],
+            "right_kp": [
+                1279,
+                485
+            ],
+            "ray_angle": 1.0989921957617514,
+            "movement_type": "translation"
+        },
+        "400": {
+            "depth": 80.12451604452465,
+            "angle": 1.0725950505901511,
+            "pixel_distance": 39.0,
+            "left_kp": [
+                1235,
+                476
+            ],
+            "right_kp": [
+                1274,
+                481
+            ],
+            "ray_angle": 1.0725950505901511,
+            "movement_type": "translation"
+        },
+        "401": {
+            "depth": 78.10968380151293,
+            "angle": 1.100260864057255,
+            "pixel_distance": 40.0,
+            "left_kp": [
+                1230,
+                472
+            ],
+            "right_kp": [
+                1270,
+                477
+            ],
+            "ray_angle": 1.100260864057255,
+            "movement_type": "translation"
+        },
+        "402": {
+            "depth": 82.09791659991096,
+            "angle": 1.0468143663873053,
+            "pixel_distance": 38.0,
+            "left_kp": [
+                1226,
+                468
+            ],
+            "right_kp": [
+                1264,
+                473
+            ],
+            "ray_angle": 1.0468143663873053,
+            "movement_type": "translation"
+        }
+    },
+    "76": {
+        "464": {
+            "depth": 23.133586738129754,
+            "angle": 3.713802703296905,
+            "pixel_distance": 141.0,
+            "left_kp": [
+                1328,
+                849
+            ],
+            "right_kp": [
+                1469,
+                858
+            ],
+            "ray_angle": 3.713802703296905,
+            "movement_type": "translation"
+        },
+        "466": {
+            "depth": 25.039522804814926,
+            "angle": 3.431294677363617,
+            "pixel_distance": 129.0,
+            "left_kp": [
+                1299,
+                799
+            ],
+            "right_kp": [
+                1428,
+                806
+            ],
+            "ray_angle": 3.431294677363617,
+            "movement_type": "translation"
+        },
+        "467": {
+            "depth": 26.147340792920158,
+            "angle": 3.2859980504335495,
+            "pixel_distance": 123.0,
+            "left_kp": [
+                1286,
+                776
+            ],
+            "right_kp": [
+                1409,
+                783
+            ],
+            "ray_angle": 3.2859980504335495,
+            "movement_type": "translation"
+        },
+        "468": {
+            "depth": 26.92269466362367,
+            "angle": 3.1914133674498077,
+            "pixel_distance": 119.0,
+            "left_kp": [
+                1273,
+                755
+            ],
+            "right_kp": [
+                1392,
+                762
+            ],
+            "ray_angle": 3.1914133674498077,
+            "movement_type": "translation"
+        }
+    }
+}
